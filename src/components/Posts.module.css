@@ -1,0 +1,22 @@
+.container {
+  height: 100%;
+}
+
+.userContainer {
+  display: flex;
+  align-items: center;
+}
+
+.userName {
+  margin-left: 10px;
+  margin-bottom: 10px;
+}
+
+.userImg {
+  height: 30px;
+  width: 30px;
+}
+
+.userImg img {
+  height: 100%;
+}
